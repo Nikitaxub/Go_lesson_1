@@ -1,1 +1,1 @@
-# Go_lesson_1
+# Go_lesson_2
